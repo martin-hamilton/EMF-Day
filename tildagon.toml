@@ -37,5 +37,5 @@ description = "EMF never ended. Find out what day of the festival it is today."
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.0.0"
+version = "0.0.1"
 
